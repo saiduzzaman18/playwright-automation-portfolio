@@ -1,4 +1,5 @@
 ![Playwright Tests](https://github.com/saiduzzaman18/playwright-automation-portfolio/actions/workflows/playwright.yml/badge.svg)
+
 # Playwright Automation Portfolio
 
 Automation test suite built with Playwright + Python + pytest
